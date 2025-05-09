@@ -1,4 +1,3 @@
-
 #Fullness theorem 1
 
 def j(i, x, k):
